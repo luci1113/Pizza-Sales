@@ -5,7 +5,7 @@
 ## Description
 
 Pizza Sales Project with SQL and Power BI
-- The project covers basic to advanced topics for beginners and intermediate level learners
+
 - The project includes advanced functionality and features such as conditional filtering and formatting
 - The final output is an interactive dashboard with various charts and KPIs
 - SQL queries are used to retrieve and analyze data
